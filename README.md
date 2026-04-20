@@ -32,7 +32,7 @@ This project predicts customer churn using Machine Learning. It uses Logistic Re
 - Displays prediction: Customer Will Leave / Stay
 
 ## 🎥 Demo Video
-(Add your Google Drive link here)
+https://drive.google.com/file/d/1WhUs28fvBwLZj_x08FFSRW4YS9OoHqHu/view?usp=drive_link
 
 ## 📁 Dataset
 Telco Customer Churn Dataset
